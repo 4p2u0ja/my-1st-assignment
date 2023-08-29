@@ -102,5 +102,66 @@ background: #E55473;
     height: 420px;
     flex-shrink: 0;
 }
-
+.K{width: 1920px;
+    height: 850px;
+    flex-shrink: 0;
+align-items: center;}
+.I{color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+margin:50px 50px;}
+.J{color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    width: 594px;
+margin: 0px 650px;}
         
+.L{width: 1920px;
+    height: 850px;
+    flex-shrink: 0;
+    margin:-600px 250px 30px;
+
+}
+.M{border: 20px solid white;}
+
+
+.N{width: 1500px;
+    height: 449px;
+    
+    border-radius: 8px;
+background-image: url("Rectangle\ 9.png");
+margin: -400px 260px 500px;}
+.O{color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    
+}
+    .p{color: rgba(39, 39, 39, 0.60);
+        
+        font-family: Lato;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px; /* 166.667% */
+    }
+
+.S{text-align: center;}
+
+    .Q{display: flex;
+    }
+    .R{width: 700px;
+        height: 64px;
+        flex-shrink: 0;
+    margin-left: 100px;}
